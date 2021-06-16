@@ -1,6 +1,6 @@
 
 # Getting Started
-This repo contains a RESTful web API built with Gradle, Spring Boot, JPA, and h2 database.
+This repo contains a RESTful web API as an assignment to calculate the Player's points after winning/losing the game. The API is built with Gradle, Spring Boot, JPA, and h2 database.
 Build and Run the project using Gradle commands (Gradle Wrapper).
 
 ## Swagger Documentation
